@@ -31,7 +31,7 @@ O conjunto de dados está disponível no site <https://dados.gov.br/dataset/seri
 
 O fluxograma abaixo evidencia as operações e definições que foram adotadas para o tratamento dos dados previsto no projeto, dessa forma permitindo a fácil identificação de todas as etapas do processo, bem como quando cada etapa deverá acontecer. A diferença entre as cores dos processos representa o agrupamento das atividades a serem realizadas nas diferentes etapas, e a respectiva sequência das atividades.
 
-<img width="500em" src="etapa3_arquitetura.png">
+<img width="500em" src="etapa3_fluxograma.png">
 
 ### 4. Limpeza e Transformação
 
